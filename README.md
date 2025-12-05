@@ -76,4 +76,4 @@ git push -u origin main
 
 
 👨‍💻 Autor
-Desenvolvido por @marcosalvss como projeto prático da disciplina de Desenvolvimento Front-end.
+Desenvolvido por @marcosalvss e @maccarii como projeto prático da disciplina de Desenvolvimento Front-end.
